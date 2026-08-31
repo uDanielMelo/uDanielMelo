@@ -1,3 +1,5 @@
+<img src="https://github.com/uDanielMelo.png" width="80" style="border-radius:50%;" align="left" />
+
 # Daniel Melo
 
 💻 Python | SQL | Análise de Dados
@@ -5,6 +7,7 @@
 🎓 Formado Análise e Desenvolvimento de Sistemas — USCS.
 
 🔸 ThunderMail: plataforma de e-mail marketing, cobranças e gestão de projetos para pequenas empresas.
+
 🔸 Sistema GLS: sistema de gestão e logística para aplicação de certames.
 
 ---
