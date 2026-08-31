@@ -1,5 +1,3 @@
-<img src="https://github.com/uDanielMelo.png" width="80" style="border-radius:50%;" align="left" />
-
 # Daniel Melo
 
 💻 Python | SQL | Análise de Dados
