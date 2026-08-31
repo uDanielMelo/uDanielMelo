@@ -1,10 +1,11 @@
 # Daniel Melo
 
-💻 Desenvolvedor Full-stack.
+💻 Python | SQL | Análise de Dados
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas — USCS.
+🎓 Formado Análise e Desenvolvimento de Sistemas — USCS.
 
-🚀 Construindo: ThunderTools (plataforma de e-mail, cobranças e gestão de projetos para pequenas empresas).
+🔸 ThunderMail: plataforma de e-mail marketing, cobranças e gestão de projetos para pequenas empresas.
+🔸 Sistema GLS: sistema de gestão e logística para aplicação de certames.
 
 ---
 
